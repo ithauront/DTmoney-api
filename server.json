@@ -1,0 +1,52 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "desenvolvimento de site",
+            "type": "income",
+            "category": "venda",
+            "price": 14000,
+            "createdAt": "2023-06-19T17:59:58.027Z"
+        },
+        {
+            "id": 2,
+            "description": "Hamburguer",
+            "type": "outcome",
+            "category": "alimentação",
+            "price": 50,
+            "createdAt": "2023-06-19T17:30:58.027Z"
+        },
+        {
+            "id": 3,
+            "description": "Curso",
+            "type": "outcome",
+            "category": "educação",
+            "price": 850,
+            "createdAt": "2023-06-19T17:30:58.027Z"
+        },
+        {
+            "description": "desenvolvimento de app",
+            "type": "income",
+            "category": "venda",
+            "price": 10000,
+            "createdAt": "2023-06-22T17:46:54.398Z",
+            "id": 4
+        },
+        {
+            "description": "cerveja",
+            "type": "outcome",
+            "category": "diversão",
+            "price": 20,
+            "createdAt": "2023-06-22T21:10:27.090Z",
+            "id": 5
+        },
+        {
+            "description": "Aluguel da casa de praia",
+            "type": "outcome",
+            "category": "Ferias",
+            "price": 1500,
+            "createdAt": "2025-07-08T12:24:16.899Z",
+            "id": 6
+        }
+    ]
+}
